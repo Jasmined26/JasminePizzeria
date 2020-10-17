@@ -1,0 +1,16 @@
+customer options:
+
+ALL CUSTOMERS
+- base options
+    - pizza size
+    - crust style
+- secondary options
+    - cheese
+    - sauce
+- toppings
+    - meats
+    - vegetables
+- sides
+    - dipping sauces
+    - drinks
+
