@@ -1,1 +1,3 @@
 Planning/Algorithm Design for 'Jasmine's Pizzeria'
+
+1. Make a sketchboard (sketchboard.io or something like that)
