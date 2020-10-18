@@ -14,3 +14,13 @@ ALL CUSTOMERS
     - dipping sauces
     - drinks
 
+
+Widgets/Modules needed:
+- status bar
+
+
+Features:
+
+-- list of customer names
+-- how many slices the customer wants
+-- how long to bake the pizza (dependent on pizza size)
